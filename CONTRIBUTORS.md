@@ -151,6 +151,7 @@
  - [peterspenler](https://github.com/peterspenler)
  - [MBR-0001](https://github.com/MBR-0001)
  - [jonas-resch](https://github.com/jonas-resch)
+ - [harsh0596](https://github.com/harsh0596)
 
 # Emby Contributors
 

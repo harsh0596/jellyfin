@@ -7,7 +7,7 @@
             "request": "launch",
             "preLaunchTask": "build",
             "program": "${workspaceFolder}/Jellyfin.Server/bin/Debug/net6.0/jellyfin.dll",
-            "args": [],
+            "args": ["--webdir", "/home/harsh/Documents/Projects/jellyfin-web/dist", "--datadir", "/home/harsh/.config/jellyfin/data", "--cachedir", "/home/harsh/.config/jellyfin/cache", "--configdir", "/home/harsh/.config/jellyfin", "--logdir", "/home/harsh/.config/jellyfin/log"],
             "cwd": "${workspaceFolder}/Jellyfin.Server",
             "console": "internalConsole",
             "stopAtEntry": false,
